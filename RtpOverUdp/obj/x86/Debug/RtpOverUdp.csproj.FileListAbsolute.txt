@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\RtpOverUdp\RtpOverUdp\bin\Debug\RtpOverUdp.exe
+C:\Users\User\Desktop\RtpOverUdp\RtpOverUdp\bin\Debug\RtpOverUdp.pdb
+C:\Users\User\Desktop\RtpOverUdp\RtpOverUdp\bin\Debug\NSVideoWrapper.dll
+C:\Users\User\Desktop\RtpOverUdp\RtpOverUdp\obj\x86\Debug\RtpOverUdp.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\RtpOverUdp\RtpOverUdp\obj\x86\Debug\RtpOverUdp.Form1.resources
+C:\Users\User\Desktop\RtpOverUdp\RtpOverUdp\obj\x86\Debug\RtpOverUdp.Properties.Resources.resources
+C:\Users\User\Desktop\RtpOverUdp\RtpOverUdp\obj\x86\Debug\RtpOverUdp.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\RtpOverUdp\RtpOverUdp\obj\x86\Debug\RtpOverUdp.exe
+C:\Users\User\Desktop\RtpOverUdp\RtpOverUdp\obj\x86\Debug\RtpOverUdp.pdb
